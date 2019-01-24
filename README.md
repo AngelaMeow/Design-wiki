@@ -6,8 +6,8 @@ Here you can find documentation and/or guides to help you complete some design/d
 
 ## Table of contents 
 
-- Login customization 
-- Login Templates 
+- [Login - customization guide](https://github.com/AngelaMeow/Design-wiki/wiki/Auth0---customization-guide)
+- Login - templates 
  
  
 ## Authors 
