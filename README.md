@@ -1,8 +1,7 @@
 # Design Wiki 
 
 **Hello Ackleners!** 
-Here you can find documentation and/or guides to help you complete some design/developers tasks.
-
+Here you can find documentation and/or guides to help you complete some design/development related tasks.
 
 ## Table of contents 
 
